@@ -1,2 +1,2 @@
 # Realtime-Stock-Price-Predicition-Using-Machine-Learning
-Developed a Python stock forecasting tool (Tkinter, Pandas, Scikit-learn) to automate the training and evaluation of 15+ regression models on Alpha Vantage API data. – Engineered a dynamic model selection pipeline that built and tested 2 Voting Regressor ensembles from the top 5 individual models, ranked by RMSE, to optimize prediction performance.
+A Python stock forecasting tool developed by using tools(Tkinter, Pandas, Scikit-learn) to automate the training and evaluation of 15+ regression models on Alpha Vantage API data. Also a dynamic model selection pipeline that built and tested 2 Voting Regressor ensembles from the top 5 individual models, ranked by RMSE, to optimize prediction performance.
